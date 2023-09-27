@@ -3,10 +3,13 @@
 ## 📝 Syntax
 ### ❎ Basic Variable Types
 Supposing you've never had contact with any programming language, there's a lot of variable types to understand.
+
 | Type | Description |
 | ---- | ----------- |
 | INT  | General numbers, except the decimal ones |
 | DOUBLE | Decimal numbers |
 | BOOL | True or false |
 | STRING | Character sequence |
-| CHAR | Um letter |
+| CHAR | One character |
+
+Of course, there's a lot of types but we'll use just the above ones for now.
