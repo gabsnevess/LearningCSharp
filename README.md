@@ -13,3 +13,7 @@ Supposing you've never had contact with any programming language, there's a lot 
 | CHAR | One character |
 
 Of course, there's a lot of types but we'll use just the above ones for now.
+### 🪶 Declaring Variables
+```ruby
+int num = 0;
+```
